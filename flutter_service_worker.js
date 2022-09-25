@@ -3,15 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "dcf4e7cc646ae5f49df9a980427bb258",
+  "assets/AssetManifest.json": "78d96a6db6e788fb251010cc31e186bb",
 "assets/assets/icons/cart.png": "673680087cc7d9f2cd91f25210aa1c59",
 "assets/assets/icons/search.png": "3c8b40ac94a2b1889f8ba8c053897137",
-"assets/assets/images/appliances.webp": "ddb5bb6cb68029d6c01128533cbb764c",
 "assets/assets/images/beauty.webp": "7df10c424583b970627e769771f99d89",
 "assets/assets/images/electronic.webp": "da5df4efc428a36063f139e1fd644438",
 "assets/assets/images/fashion.webp": "60573acbbecef78528e52bb3176e3537",
 "assets/assets/images/furniture.webp": "be181fa5f3e2d8436714bd10475044f8",
-"assets/assets/images/home.webp": "2e1579c93842379c1215188c50ebf79a",
 "assets/assets/images/mobile.webp": "c9e72cf36bfea3c59d7176d761eab5cd",
 "assets/assets/images/offers.webp": "9fa8a42aaecc6f3367caf81e957e2d6a",
 "assets/assets/images/slider%2520(1).jpg": "849517330544f7e00d66971e37de5789",
@@ -45,9 +43,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "2085cf87bde7f1121c0c0a6887025458",
 "icons/Icon-maskable-192.png": "f3eac8dc0c8a3a141a306e848ad5fff8",
 "icons/Icon-maskable-512.png": "2085cf87bde7f1121c0c0a6887025458",
-"index.html": "03a39b3756645db7e4a4008a8b04a508",
-"/": "03a39b3756645db7e4a4008a8b04a508",
-"main.dart.js": "ed62e4ef4a37dcf596688783ea8090d8",
+"index.html": "cabeb8f590912a4b9367bb4d83f9e14c",
+"/": "cabeb8f590912a4b9367bb4d83f9e14c",
+"main.dart.js": "3d1e6f75fc8a8b4314ba5303f2764e2c",
 "manifest.json": "6967448ebe23d9f1366cbe005157725a",
 "version.json": "b0f7b33887fdf0d4e37862fa6a91c331"
 };
