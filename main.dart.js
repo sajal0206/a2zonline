@@ -8698,7 +8698,7 @@ asB:function asB(a,b){this.a=a
 this.b=b},
 asy:function asy(a){this.a=a},
 asC:function asC(){},
-aU6(a){var s,r,q=null,p=t.w,o=A.cS(q,a.F(p).f.a.b/8,q),n=A.bE(q,A.em("assets/logo/icon.png",q,q,q,q),B.l,q,q,q,q,q,q,B.I5,q,q,q),m=A.cS(q,a.F(p).f.a.b/10,q),l=A.cS(q,a.F(p).f.a.b/30,q),k=a.F(p).f,j=A.c5(6)
+aU6(a){var s,r,q=null,p=t.w,o=A.cS(q,a.F(p).f.a.b/8,q),n=A.bE(q,A.em("assets/logo/icon.png",q,q,q,q),B.l,q,q,q,q,q,q,B.I4,q,q,q),m=A.cS(q,a.F(p).f.a.b/10,q),l=A.cS(q,a.F(p).f.a.b/30,q),k=a.F(p).f,j=A.c5(6)
 j=A.ql(!0,new A.aU(B.K,A.jA(B.nk,B.k,B.bI,1),q),B.cX,q,50,k.a.a,new A.auO(),q,new A.c0(j,B.n))
 k=A.cS(q,a.F(p).f.a.b/20,q)
 p=a.F(p).f
@@ -8803,7 +8803,7 @@ au9:function au9(){},
 au0:function au0(){},
 au1:function au1(){},
 Ij(a,b,c){var s=null
-return A.jA(A.kl(!1,B.hD,!0,A.bE(B.C,A.cg(A.a([A.em(a,s,s,s,c.F(t.w).f.a.a/5),A.lo(b,s,B.by,B.h6,1.2)],t.p),B.w,B.b9,B.v),B.l,s,s,B.nD,s,s,s,s,s,s,s),s,!0,!1,s,s,s,s,s,s,s,s,s,new A.atC(),s,s,s,s,s),B.m,B.w2,3)},
+return A.jA(A.kl(!1,B.hD,!0,A.bE(B.C,A.cg(A.a([A.em(a,s,s,s,c.F(t.w).f.a.a/5),A.lo(b,1,B.by,B.h6,1.1)],t.p),B.w,B.b9,B.v),B.l,s,s,B.nD,s,s,s,s,s,s,s),s,!0,!1,s,s,s,s,s,s,s,s,s,new A.atC(),s,s,s,s,s),B.m,B.w2,3)},
 atC:function atC(){},
 aTF(a){var s=null,r=t.w
 return A.bE(s,new A.aU(B.I7,A.dL(A.a([A.h0(A.h5(B.c_,!0,B.pj,s,new A.aul(),B.a_,s,B.bV,"Home"),1),A.h0(A.h5(s,!0,A.em("assets/icons/search.png",s,a.F(r).f.a.b/30,s,s),s,new A.aum(),B.a_,s,s,"Search Product"),1),A.h0(A.h5(B.c_,!0,A.em("assets/icons/cart.png",s,a.F(r).f.a.b/30,s,s),s,new A.aun(),B.a_,s,B.bV,"My Cart"),1)],t.p),B.w,B.e3,B.v),s),B.l,s,s,B.nE,s,s,s,B.K,s,s,s)},
@@ -8886,7 +8886,7 @@ q=A.h5(B.c_,!0,B.pg,k,new A.avz(),B.a_,k,B.bV,"All Categories")
 n=A.h5(B.c_,!0,B.pk,k,new A.avA(),B.a_,k,B.bV,"Trending store")
 m=A.h5(B.c_,!0,B.ph,k,new A.avB(),B.a_,k,B.bV,"Service Providers")
 l=A.h5(B.c_,!0,B.pf,k,new A.avC(),B.a_,k,B.bV,"My Orders")
-return A.bE(k,new A.aU(B.I3,A.dL(A.a([s,q,n,m,l,new A.vi(new A.avD(p),"Account",A.awo(B.cb,k,A.lo(o==null?"G.":o,k,B.Vl,k,k),k),B.P7,k,t.q3)],t.p),B.w,B.ca,B.v),k),B.l,k,k,B.nE,k,k,k,B.K,k,k,k)},
+return A.bE(k,new A.aU(B.I2,A.dL(A.a([s,q,n,m,l,new A.vi(new A.avD(p),"Account",A.awo(B.cb,k,A.lo(o==null?"G.":o,k,B.Vl,k,k),k),B.P7,k,t.q3)],t.p),B.w,B.ca,B.v),k),B.l,k,k,B.nE,k,k,k,B.K,k,k,k)},
 avy:function avy(){},
 avx:function avx(){},
 avz:function avz(){},
@@ -43361,7 +43361,7 @@ s=A.a([A.cS(A.em("assets/images/slider (1).jpg",B.dz,q,q,q),q,1/0),A.cS(A.em("as
 r=$.ah
 b.push(A.jA(new A.yK(new A.a0O(3,1.2,!0,!0,!0),s,new A.a0N(new A.aT(new A.ae(r,t.wC),t.Fe)),4,q),B.m,B.eb,5))
 h=e?a0.F(h).f.a.a/1.2:a0.F(h).f.a.a/4.5
-b.push(A.bE(q,e?A.aBN(A.a([A.Ij(p,o,a0),A.Ij(n,"Mobile",a0),A.Ij(m,"Fashion",a0),A.Ij(l,k,a0),A.Ij(j,"Beauty",a0),A.Ij(i,"Home & Furiture",a0)],c),B.QI):A.aBN(A.a([A.Ik(p,o,a0),A.Ik(n,"Mobile",a0),A.Ik(m,"Fashion",a0),A.Ik(l,k,a0),A.Ik(j,"Beauty",a0),A.Ik(i,"Home & Furniture",a0)],c),B.QJ),B.l,q,q,q,q,h,q,B.HZ,q,q,q))
+b.push(A.bE(q,e?A.aBN(A.a([A.Ij(p,o,a0),A.Ij(n,"Mobile",a0),A.Ij(m,"Fashion",a0),A.Ij(l,k,a0),A.Ij(j,"Beauty",a0),A.Ij(i,"Home & Furiture",a0)],c),B.QI):A.aBN(A.a([A.Ik(p,o,a0),A.Ik(n,"Mobile",a0),A.Ik(m,"Fashion",a0),A.Ik(l,k,a0),A.Ik(j,"Beauty",a0),A.Ik(i,"Home & Furniture",a0)],c),B.QJ),B.l,q,q,q,q,h,q,B.I5,q,q,q))
 if(a)b.push(A.aTq())
 return A.kG(f,A.kK(A.du(A.cg(b,B.w,B.M,B.v),q,q),q),d)}}
 A.td.prototype={
@@ -52392,8 +52392,8 @@ if(!i.gnn()){a5=q.r
 a5.toString
 a7=(4+0.75*a5)*A.aa7(c0)
 a5=b4.gaa().p4
-if(a5===!0)a8=b?B.I2:B.I_
-else a8=b?B.cq:B.HV}else{a8=b?B.I0:B.I1
+if(a5===!0)a8=b?B.I1:B.HZ
+else a8=b?B.cq:B.HV}else{a8=b?B.I_:B.I0
 a7=0}b4.gaa().toString
 a5=b4.gaa().CW
 a5.toString
@@ -86985,13 +86985,13 @@ B.oQ=new A.ay(0,2,0,2)
 B.cq=new A.ay(0,8,0,8)
 B.HY=new A.ay(10,10,10,10)
 B.f_=new A.ay(10,15,10,15)
-B.HZ=new A.ay(10,20,10,20)
-B.I_=new A.ay(12,12,12,12)
-B.I0=new A.ay(12,20,12,12)
-B.I1=new A.ay(12,24,12,16)
-B.I2=new A.ay(12,8,12,8)
-B.I3=new A.ay(15,0,15,0)
-B.I5=new A.ay(15,15,15,15)
+B.HZ=new A.ay(12,12,12,12)
+B.I_=new A.ay(12,20,12,12)
+B.I0=new A.ay(12,24,12,16)
+B.I1=new A.ay(12,8,12,8)
+B.I2=new A.ay(15,0,15,0)
+B.I4=new A.ay(15,15,15,15)
+B.I5=new A.ay(15,20,15,20)
 B.I6=new A.ay(15,5,15,10)
 B.I7=new A.ay(15,5,15,5)
 B.cZ=new A.ay(16,0,16,0)
@@ -88591,10 +88591,10 @@ B.zN=new A.bn("Welcome Back!",B.mB,null,null,null,null)
 B.w8=new A.aU(B.ia,B.zN,null)
 B.zT=new A.bn("To",B.mB,null,null,null,null)
 B.w9=new A.aU(B.ia,B.zT,null)
-B.I4=new A.ay(15,10,15,10)
+B.I3=new A.ay(15,10,15,10)
 B.WM=new A.Ec(!0,!1,!1,!0)
 B.PI=new A.Di(null)
-B.OV=new A.aU(B.I4,B.PI,null)
+B.OV=new A.aU(B.I3,B.PI,null)
 B.zF=new A.bn("Welcome",B.mB,null,null,null,null)
 B.wa=new A.aU(B.ia,B.zF,null)
 B.V8=new A.o(!0,null,null,"times new roman",null,null,20,B.dN,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
