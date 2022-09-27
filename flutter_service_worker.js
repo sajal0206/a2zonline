@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/assets/images/electronics.png": "a8939059400f063dc080253b5c1e6a89",
 "assets/assets/images/fashion.png": "59635d7388451fd3c6499e68a2c060e8",
 "assets/assets/images/image%25207mobile.png": "1ef0713bdc86c3d4ec3a16aad7a1dfb9",
-"assets/assets/images/mobile.png": "b9e39f6985893b07e20c965d62c45c33",
+"assets/assets/images/mobile.png": "5548fec6deafac8ce3368c058c8303a6",
 "assets/assets/images/offers.png": "f2101c6263673f30c7ef9c9dbe5c0b09",
 "assets/assets/images/slider%2520(1).jpg": "849517330544f7e00d66971e37de5789",
 "assets/assets/images/slider%2520(2).jpg": "b0041e88a68fbcb388aa9606098366fa",
@@ -48,9 +48,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "2085cf87bde7f1121c0c0a6887025458",
 "icons/Icon-maskable-192.png": "f3eac8dc0c8a3a141a306e848ad5fff8",
 "icons/Icon-maskable-512.png": "2085cf87bde7f1121c0c0a6887025458",
-"index.html": "a2cfe31d42f439acc2cef1e43a6656ad",
-"/": "a2cfe31d42f439acc2cef1e43a6656ad",
-"main.dart.js": "bf13922b8e5bca188d9847a9ffd8b489",
+"index.html": "40103ea439f1536b0c0b238b30903e20",
+"/": "40103ea439f1536b0c0b238b30903e20",
+"main.dart.js": "8a1760049f447f21e9ef9469ed4ba5be",
 "manifest.json": "6967448ebe23d9f1366cbe005157725a",
 "version.json": "b0f7b33887fdf0d4e37862fa6a91c331"
 };
