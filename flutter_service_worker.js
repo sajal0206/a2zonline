@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "63b240f752a77176f6e54dc8854c489b",
+  "assets/AssetManifest.json": "8a3333d9faa794d3aa860432a083b7ed",
 "assets/assets/icons/cart.png": "673680087cc7d9f2cd91f25210aa1c59",
 "assets/assets/icons/search.png": "3c8b40ac94a2b1889f8ba8c053897137",
 "assets/assets/images/appliances.png": "2575fd2b6af1e7da5e97ab12c6848ca3",
@@ -20,6 +20,8 @@ const RESOURCES = {
 "assets/assets/images/care.png": "b44d7a02fd0349076ca6549545702f9e",
 "assets/assets/images/electronics.png": "a8939059400f063dc080253b5c1e6a89",
 "assets/assets/images/fashion.png": "59635d7388451fd3c6499e68a2c060e8",
+"assets/assets/images/furniture.png": "d6d7dd6fda8fdf521fc083f5a6801c2e",
+"assets/assets/images/home.png": "9fda0ebfb5469ce024499e57aa839166",
 "assets/assets/images/image%25207mobile.png": "1ef0713bdc86c3d4ec3a16aad7a1dfb9",
 "assets/assets/images/mobile.png": "5548fec6deafac8ce3368c058c8303a6",
 "assets/assets/images/no-product-found.png": "d3155e40595d06219eaa21825aa71408",
@@ -47,7 +49,7 @@ const RESOURCES = {
 "assets/assets/Piazzolla/Piazzolla-Regular.ttf": "98c15784aaf28d7c1353c498cae4190a",
 "assets/FontManifest.json": "b8219d85d377f092607f10d52ae21652",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "47d92d03fbacd1af936f70f9c709492f",
+"assets/NOTICES": "00bc8dcff3649fd2ea26a513cca314b6",
 "assets/packages/awesome_snackbar_content/assets/back.svg": "ba1c3aebba280f23f5509bd42dab958d",
 "assets/packages/awesome_snackbar_content/assets/bubbles.svg": "1df6817bf509ee4e615fe821bc6dabd9",
 "assets/packages/awesome_snackbar_content/assets/types/failure.svg": "cb9e759ee55687836e9c1f20480dd9c8",
@@ -65,9 +67,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "2085cf87bde7f1121c0c0a6887025458",
 "icons/Icon-maskable-192.png": "f3eac8dc0c8a3a141a306e848ad5fff8",
 "icons/Icon-maskable-512.png": "2085cf87bde7f1121c0c0a6887025458",
-"index.html": "2e4af785f8d110ab09b1c3c1ade85bb0",
-"/": "2e4af785f8d110ab09b1c3c1ade85bb0",
-"main.dart.js": "fb99275eb95d202c64390aeec31d5ce2",
+"index.html": "8bcbd00ae9e69b81567ab41a2e98cbe9",
+"/": "8bcbd00ae9e69b81567ab41a2e98cbe9",
+"main.dart.js": "99e570fbfb4ce6cd8fb10f88034122fd",
 "manifest.json": "6967448ebe23d9f1366cbe005157725a",
 "version.json": "b0f7b33887fdf0d4e37862fa6a91c331"
 };
