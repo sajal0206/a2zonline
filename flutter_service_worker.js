@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e6a74cdab5f678a87cdbdf068e6f9482",
+  "assets/AssetManifest.json": "39bcd8e477442d914003706757e1bd22",
 "assets/assets/icons/cart.png": "673680087cc7d9f2cd91f25210aa1c59",
 "assets/assets/icons/search.png": "3c8b40ac94a2b1889f8ba8c053897137",
+"assets/assets/images/404_logo.webp": "2b0c3e6906aced5807c87dd335835937",
 "assets/assets/images/appliances.png": "2575fd2b6af1e7da5e97ab12c6848ca3",
 "assets/assets/images/baby.png": "3120bfcaee1c2523d828a69b5b6409cb",
 "assets/assets/images/brands.png": "8cbed9ef3a36233060afd050e551ff12",
@@ -24,6 +25,7 @@ const RESOURCES = {
 "assets/assets/images/home.png": "9fda0ebfb5469ce024499e57aa839166",
 "assets/assets/images/image%25207mobile.png": "1ef0713bdc86c3d4ec3a16aad7a1dfb9",
 "assets/assets/images/mobile.png": "5548fec6deafac8ce3368c058c8303a6",
+"assets/assets/images/no-logo.png": "39f9d7fbded66b603adf58e93133d9eb",
 "assets/assets/images/no-product-found.png": "d3155e40595d06219eaa21825aa71408",
 "assets/assets/images/offers.png": "f2101c6263673f30c7ef9c9dbe5c0b09",
 "assets/assets/images/sad-cart.png": "9ac0cb3ab4dbc8d2b9f5ccd95b792662",
@@ -68,9 +70,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "2085cf87bde7f1121c0c0a6887025458",
 "icons/Icon-maskable-192.png": "f3eac8dc0c8a3a141a306e848ad5fff8",
 "icons/Icon-maskable-512.png": "2085cf87bde7f1121c0c0a6887025458",
-"index.html": "30f51fb2339278c91fac79a3e28165f5",
-"/": "30f51fb2339278c91fac79a3e28165f5",
-"main.dart.js": "6813d6ec267a861983f6bb941c00181e",
+"index.html": "7749893abe7dc5e1e79533770f4c38d0",
+"/": "7749893abe7dc5e1e79533770f4c38d0",
+"main.dart.js": "e137d2c20fad3a08059f5f6052b573d1",
 "manifest.json": "6967448ebe23d9f1366cbe005157725a",
 "version.json": "b0f7b33887fdf0d4e37862fa6a91c331"
 };
