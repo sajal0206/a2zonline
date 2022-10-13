@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8a3333d9faa794d3aa860432a083b7ed",
+  "assets/AssetManifest.json": "e6a74cdab5f678a87cdbdf068e6f9482",
 "assets/assets/icons/cart.png": "673680087cc7d9f2cd91f25210aa1c59",
 "assets/assets/icons/search.png": "3c8b40ac94a2b1889f8ba8c053897137",
 "assets/assets/images/appliances.png": "2575fd2b6af1e7da5e97ab12c6848ca3",
@@ -47,15 +47,16 @@ const RESOURCES = {
 "assets/assets/Piazzolla/Piazzolla-Bold.ttf": "e8e041ccdc0e7485a08bbb7fbdbb5ebd",
 "assets/assets/Piazzolla/Piazzolla-Light.ttf": "e63a901e77086d1c32cea0dd28b19dba",
 "assets/assets/Piazzolla/Piazzolla-Regular.ttf": "98c15784aaf28d7c1353c498cae4190a",
-"assets/FontManifest.json": "b8219d85d377f092607f10d52ae21652",
+"assets/FontManifest.json": "c8403223303ba25c176b55839860d165",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "00bc8dcff3649fd2ea26a513cca314b6",
+"assets/NOTICES": "fd690cd98d784a8166bb72bf61ddeb53",
 "assets/packages/awesome_snackbar_content/assets/back.svg": "ba1c3aebba280f23f5509bd42dab958d",
 "assets/packages/awesome_snackbar_content/assets/bubbles.svg": "1df6817bf509ee4e615fe821bc6dabd9",
 "assets/packages/awesome_snackbar_content/assets/types/failure.svg": "cb9e759ee55687836e9c1f20480dd9c8",
 "assets/packages/awesome_snackbar_content/assets/types/help.svg": "7fb350b5c30bde7deeb3160f591461ff",
 "assets/packages/awesome_snackbar_content/assets/types/success.svg": "6e273a8f41cd45839b2e3a36747189ac",
 "assets/packages/awesome_snackbar_content/assets/types/warning.svg": "cfcc5fcb570129febe890f2e117615e0",
+"assets/packages/typicons_flutter/fonts/typicons.ttf": "29f9630f7d87a79830d1c321e1600f2e",
 "assets/shaders/ink_sparkle.frag": "ae6c1fd6f6ee6ee952cde379095a8f3f",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
@@ -67,9 +68,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "2085cf87bde7f1121c0c0a6887025458",
 "icons/Icon-maskable-192.png": "f3eac8dc0c8a3a141a306e848ad5fff8",
 "icons/Icon-maskable-512.png": "2085cf87bde7f1121c0c0a6887025458",
-"index.html": "4c190d22e630e33813e4591d5d80972c",
-"/": "4c190d22e630e33813e4591d5d80972c",
-"main.dart.js": "ab5978f8b00e217e6e13e5cd5dbb5969",
+"index.html": "7e2b1c096361f247f46cf8e59710d11c",
+"/": "7e2b1c096361f247f46cf8e59710d11c",
+"main.dart.js": "9d365c5ad3ea139dceb8a8b75ca79d28",
 "manifest.json": "6967448ebe23d9f1366cbe005157725a",
 "version.json": "b0f7b33887fdf0d4e37862fa6a91c331"
 };
