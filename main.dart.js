@@ -42415,7 +42415,7 @@ n=(o==null?$.W=$.aQ():o).ap(0,"[DEFAULT]")
 A.av(n,$.b5(),!1)
 o=A.iw(new A.aG(n))
 m=this.a
-A.j7(o,o.gdg().cR("MyOrder")).cr(0,p).v2(0,A.ah(["orderId",p,"seller",m.x,"pid",m.a.c,"product",m.d,"price",m.f,"shipping",m.w,"qnty",s,"buyer",$.ns(),"image",m.z],t.N,t.z)).c9(new A.auI(j,m))}catch(l){r=A.a4(l)
+A.j7(o,o.gdg().cR("MyOrder")).cr(0,p).v2(0,A.ah(["orderId",p,"seller",m.x,"pid",m.a.c,"product",m.d,"price",m.f,"shipping",m.w,"qnty",s,"buyer",$.ns(),"image",m.z,"accepted","pending"],t.N,t.z)).c9(new A.auI(j,m))}catch(l){r=A.a4(l)
 j=this.b.p(t.q)
 j.toString
 o=J.bq(r)
